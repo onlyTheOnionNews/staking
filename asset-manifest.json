@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a883af2e.css",
+    "main.js": "./static/js/main.dd938714.js",
+    "static/js/208.ed5ea125.chunk.js": "./static/js/208.ed5ea125.chunk.js",
+    "static/js/760.7db0e83b.chunk.js": "./static/js/760.7db0e83b.chunk.js",
+    "static/js/631.869ae090.chunk.js": "./static/js/631.869ae090.chunk.js",
+    "static/js/285.acfe71a0.chunk.js": "./static/js/285.acfe71a0.chunk.js",
+    "static/js/787.5acf866e.chunk.js": "./static/js/787.5acf866e.chunk.js",
+    "static/js/774.d3124355.chunk.js": "./static/js/774.d3124355.chunk.js",
+    "static/js/819.e2877ef2.chunk.js": "./static/js/819.e2877ef2.chunk.js",
+    "static/js/851.442e6be2.chunk.js": "./static/js/851.442e6be2.chunk.js",
+    "static/media/MadHoneyLogo.png": "./static/media/MadHoneyLogo.b57b24dcfce6ccc5e5b3.png",
+    "static/media/LostTribesLogo.jpeg": "./static/media/LostTribesLogo.b317d1ffd96abc8353ce.jpeg",
+    "static/media/Rival-Bears-Logo.png": "./static/media/Rival-Bears-Logo.7462eff2b3dc7fd7d35c.png",
+    "static/media/True Lies.ttf": "./static/media/True Lies.0ebd205e6f943f8ee40b.ttf",
+    "static/media/LogoText.webp": "./static/media/LogoText.dde717f8bb60143c8b57.webp",
+    "index.html": "./index.html",
+    "main.a883af2e.css.map": "./static/css/main.a883af2e.css.map",
+    "main.dd938714.js.map": "./static/js/main.dd938714.js.map",
+    "208.ed5ea125.chunk.js.map": "./static/js/208.ed5ea125.chunk.js.map",
+    "760.7db0e83b.chunk.js.map": "./static/js/760.7db0e83b.chunk.js.map",
+    "631.869ae090.chunk.js.map": "./static/js/631.869ae090.chunk.js.map",
+    "285.acfe71a0.chunk.js.map": "./static/js/285.acfe71a0.chunk.js.map",
+    "787.5acf866e.chunk.js.map": "./static/js/787.5acf866e.chunk.js.map",
+    "774.d3124355.chunk.js.map": "./static/js/774.d3124355.chunk.js.map",
+    "819.e2877ef2.chunk.js.map": "./static/js/819.e2877ef2.chunk.js.map",
+    "851.442e6be2.chunk.js.map": "./static/js/851.442e6be2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a883af2e.css",
+    "static/js/main.dd938714.js"
+  ]
+}
